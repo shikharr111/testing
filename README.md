@@ -60,3 +60,4 @@ supabase/migrations schema, triggers, RLS, storage, RPCs;  supabase/seed.sql;  s
 
 ## Workspace
 After signing in the site opens on `/workspace` (InfraTrack UI). Run `supabase/migrations/20261025000008_infratrack.sql` once (it is already included in `supabase/setup_all.sql`). The earlier SitePulse pages remain at `/dashboard`.
+# testing
